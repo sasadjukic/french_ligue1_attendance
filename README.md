@@ -16,7 +16,7 @@ Three games are missing attendance reports:<br>
 
 <strong>OTHER NOTES</strong><br>
 <br>
-Highest attendance: 65,894 (Olympique de Marseille vs PSG) 
+Highest attendance: 65,894 (Olympique de Marseille vs PSG)<br> 
 Lowest attendance: 3,061 (AS Monaco vs AJ Auxerre)<br>
 
 Average stadium occupancy for the Ligue 1: 76.27%<br>
